@@ -45,7 +45,9 @@
     }
   },
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.0"
+    "dompurify": "^2.2.2",
+    "electron-squirrel-startup": "^1.0.0",
+    "marked": "^1.2.3"
   },
   "devDependencies": {
     "@electron-forge/cli": "^6.0.0-beta.54",
